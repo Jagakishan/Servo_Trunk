@@ -22,5 +22,5 @@ Click preset buttons or enter custom angles for each servo.
 View queued movements in the display box.
 Click “Execute” to move servos in the queued order.
 
-##Author
+## Author
 Jagakishan S.K
